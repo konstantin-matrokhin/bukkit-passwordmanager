@@ -1,0 +1,11 @@
+#kvlt (c) 2017         remillary@gmail.com
+
+#set up passwords here
+password: 12345
+admin-password: ec015001
+
+#messages for players
+messages:
+  wrong-password: 'Wrong password! Make sure that you have payed for this month.'
+  successful-login: 'You successfully logged in!'
+  login-require: 'Please type the password directly in the chat!'

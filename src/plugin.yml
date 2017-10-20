@@ -1,0 +1,6 @@
+name: PasswordManager
+main: net.kvlt.pm.Main
+version: 1.0
+commands:
+  pm:
+    usage: check if your input is correct!
